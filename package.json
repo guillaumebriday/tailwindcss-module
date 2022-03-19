@@ -28,17 +28,17 @@
   "dependencies": {
     "@nuxt/kit": "npm:@nuxt/kit-edge@latest",
     "@nuxt/postcss8": "^1.1.3",
-    "autoprefixer": "^10.4.2",
+    "autoprefixer": "^10.4.4",
     "chalk": "^4.1.2",
     "clear-module": "^4.1.2",
     "consola": "^2.15.3",
     "defu": "^5.0.1",
-    "postcss": "^8.4.8",
-    "postcss-custom-properties": "^12.1.4",
+    "postcss": "^8.4.12",
+    "postcss-custom-properties": "^12.1.5",
     "postcss-nesting": "^10.1.3",
     "tailwind-config-viewer": "^1.6.3",
     "tailwindcss": "^3.0.23",
-    "ufo": "^0.7.11"
+    "ufo": "^0.8.1"
   },
   "devDependencies": {
     "@nuxt/module-builder": "latest",
